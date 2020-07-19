@@ -1,0 +1,9 @@
+name: basic_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - flake8
+  - pep8-naming
+  - flake8-docstrings
+  - pre-commit
